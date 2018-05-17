@@ -1,0 +1,7 @@
+/* This file is for your main application css. */
+#msg-list {
+    list-style: none;
+    min-height: 200px;
+    padding: 10px;
+    border: 1px solid #9d9d9d;
+}

@@ -1,0 +1,12 @@
+<div class="row">
+    <div class="col-xs-12">
+        <ul id='msg-list' class='row'></ul>
+    </div>
+
+  <div class="col-xs-3">
+    <input type="text" id="name" class="form-control" placeholder="Your Name" autofocus>
+  </div>
+  <div class="col-xs-9">
+    <input type="text" id="msg" class="form-control" placeholder="Your Message">
+  </div>
+</div>
